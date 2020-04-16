@@ -29,7 +29,7 @@ Element's Color(Hex code)|
 - How to make animation(micro-interaction).
 - Coding the CSS style in a proper way.
 - How to make it responsive to different Laptop screen size?
-- Figure out what all the knowlege I need to make the plan comes true.
+- Figure out what the knowlege I need to learn in order to make the plan comes true since I have limited experience on HTML/CSS.
 
 ### Timeline
 - Week 1: Starting with Sandbox, plan out how the screen will look like. Learning the Visual Studio Code.
