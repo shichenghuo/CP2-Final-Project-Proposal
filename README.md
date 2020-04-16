@@ -3,7 +3,7 @@
 ---
 ### Summary
 
-The project connect to the "Tetris Matching" project from CSP class. This project is about implemening web interactable interface with HTML/CSS. I will make the opening page, tutorial for the game and game page. The goal of this project is to allow users to interact, the interface has been designed and understandable for users in each step. To give users a complete experience.
+The project connects to the "Tetris Matching" project from CSP class. This project is about implementing interactable interfaces with HTML/CSS. I will make the opening pages, a tutorial for the game, and a game page. The goal is to allow users to interact, the interface has been designed and understandable for users in each step in order to give users a complete experience.
 
 ---
 
@@ -21,9 +21,8 @@ Mouse Press in different heat area|Responsive feedback|Loading progress
 Element's shape|Text|Change color|
 Element's Location(position on the screen)|Animation(Moving path)||
 Element's Size(Width/heighth)|Shape||
-Element's Change path|Coloe
+Element's Change path|Color
 Element's Color(Hex code)|
-
 
 ### What’s going to be hard/ uncertain?
 - How to put the code into the browsers?
@@ -33,8 +32,7 @@ Element's Color(Hex code)|
 - Figure out what all the knowlege I need to make the plan comes true.
 
 ### Timeline
-Week 1: Starting with Sandbox, plan out how the screen will look like. Learning the Visual Studio Code.
-Week 2: Making the site funtional with complete user flow in the low/mid-fidelity level.
-Week 3: High fidelity functional code/Connect the code to the site.
-Week 4: Present.
-
+- Week 1: Starting with Sandbox, plan out how the screen will look like. Learning the Visual Studio Code.
+- Week 2: Making the site funtional with complete user flow in the low/mid-fidelity level.
+- Week 3: High fidelity functional code/Connect the code to the site.
+- Week 4: Present.
