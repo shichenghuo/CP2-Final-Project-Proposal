@@ -5,6 +5,12 @@
 
 The project connects to the "Tetris Matching" project from CSP class. This project is about implementing interactable interfaces with HTML/CSS. I will make the opening pages, a tutorial for the game, and a game page. The goal is to allow users to interact, the interface has been designed and understandable for users in each step in order to give users a complete experience.
 
+Appendix("Tetris Matching" project):
+
+The project wants to encourage people to communicate and interact with each other through games that required collaboration and walking around the crowd. Today, with the rapid development of technology, we can see that in the cafe, in the bus stations, and in many places, most people choose to use mobile phones to browse information and meet people through the internet. However, in the same space, people have many opportunities to know each other.
+
+The project tries to provide a fun channel for people to meet with others. Users will be assigned a random blocks composition once they stand in the heated area. The block compositions can be combined with another person’s into a new shape. With the block they had, they need to find others who has a match block compositions with them.
+
 ---
 
 ### Components
