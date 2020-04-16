@@ -24,7 +24,7 @@ Element's Size(Width/heighth)|Shape||
 Element's Change path|Color
 Element's Color(Hex code)|
 
-https://github.com/shichenghuo/CP2-Final-Project-Proposal/blob/master/System%20diagram.jpg
+![System Diagram](https://github.com/shichenghuo/CP2-Final-Project-Proposal/blob/master/System%20diagram.jpg)
 
 ### What’s going to be hard/ uncertain?
 - How to put the code into the browsers?
